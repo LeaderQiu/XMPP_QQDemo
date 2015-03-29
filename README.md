@@ -1,8 +1,6 @@
 # SXTheQQ
 用xmppFramework框架编写QQ程序，主要为了练习通讯的一些原理，界面比较渣
-必须要先在本地配置好环境才可以运行。配置方法见我博客园：<br />
 
-`http://www.cnblogs.com/dsxniubility/p/4304570.html`
 
 
 ####主要功能
